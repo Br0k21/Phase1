@@ -17,7 +17,7 @@
 #define PATH_INFO "E:\\Phase1\\archive\\data_subjects_info.csv"
 
 #define TEST_SET "E:\\Phase1\\testSet.csv"
-#define DATA_SET "E:\\Phase1\\dataSet.csv"
+#define DATA_SET "E:\\Phase1\\trainSet.csv"
 
 typedef enum motionType MotionType;
 enum motionType {

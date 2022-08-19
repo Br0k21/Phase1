@@ -22,11 +22,11 @@
 typedef enum motionType MotionType;
 enum motionType {
 	DOWNSTAIRS = 1,
-	JOGGING = 2,
-	UPSTAIRS = 3,
-	SITDOWN = 4,
-	STANDUP = 5,
-	WALKING = 6
+	UPSTAIRS = 2,
+	SITDOWN = 3,
+	STANDUP = 4,
+	WALKING = 5,
+	JOGGING = 6
 };
 
 typedef struct row Row;
